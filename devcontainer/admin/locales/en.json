@@ -1,0 +1,19 @@
+{
+  "lang": "en",
+  "dir": "ltr",
+  "title": "MRH-G2Ray Admin GUI",
+  "subtitle": "This panel generates your VLESS link without terminal usage.",
+  "uuidLabel": "UUID",
+  "pathLabel": "Path",
+  "remarkLabel": "Remark",
+  "customEndpointTitle": "Custom Endpoint",
+  "customEndpointDesc": "Optionally specify a custom IP / hostname and port to generate an extra config entry.",
+  "customIpLabel": "Custom IP / Hostname",
+  "customIpPlaceholder": "e.g. 1.2.3.4 or example.com",
+  "customPortLabel": "Port",
+  "copyAll": "Copy All Configs",
+  "copy": "Copy",
+  "copied": "Copied!",
+  "copyFailed": "Copy failed",
+  "uuidNotLoaded": "UUID not loaded. Please wait for Xray start, then refresh."
+}

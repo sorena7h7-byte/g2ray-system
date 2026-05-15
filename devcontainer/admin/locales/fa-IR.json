@@ -1,0 +1,19 @@
+{
+  "lang": "fa-IR",
+  "dir": "rtl",
+  "title": "پنل مدیریت MRH-G2Ray",
+  "subtitle": "این پنل بدون نیاز به ترمینال، لینک VLESS شما را تولید می‌کند.",
+  "uuidLabel": "UUID",
+  "pathLabel": "مسیر",
+  "remarkLabel": "توضیح",
+  "customEndpointTitle": "نقطه پایانی سفارشی",
+  "customEndpointDesc": "به صورت اختیاری، یک IP / هاست سفارشی و پورت برای ایجاد یک ورودی پیکربندی اضافه مشخص کنید.",
+  "customIpLabel": "IP / هاست سفارشی",
+  "customIpPlaceholder": "مثال: 1.2.3.4 یا example.com",
+  "customPortLabel": "پورت",
+  "copyAll": "کپی همه تنظیمات",
+  "copy": "کپی",
+  "copied": "کپی شد!",
+  "copyFailed": "کپی ناموفق",
+  "uuidNotLoaded": "UUID بارگذاری نشد. لطفاً منتظر شروع Xray باشید، سپس صفحه را رفرش کنید."
+}
